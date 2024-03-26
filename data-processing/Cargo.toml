@@ -1,0 +1,10 @@
+[package]
+name = "data-processing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.1"
+serde = { version = "1", features = ["derive"] }
+chrono = { version = "0.4.26", features = ["serde"] }
+itertools = { version = "0.11.0" }

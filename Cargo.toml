@@ -4,5 +4,6 @@ members = [
     "cli-word-counter",
     "priority-queue",
     "sleep-sort",
+    "data-processing",
 ]
 resolver = "2"
