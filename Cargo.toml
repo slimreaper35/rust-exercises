@@ -1,3 +1,8 @@
 [workspace]
-members = ["zipffuck-interpreter", "cli-word-counter", "priority-queue"]
+members = [
+    "zipffuck-interpreter",
+    "cli-word-counter",
+    "priority-queue",
+    "sleep-sort",
+]
 resolver = "2"
