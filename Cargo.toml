@@ -5,5 +5,8 @@ members = [
     "priority-queue",
     "sleep-sort",
     "data-processing",
+    "redis/client",
+    "redis/server",
+    "redis/commands",
 ]
 resolver = "2"
