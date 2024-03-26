@@ -1,0 +1,13 @@
+[package]
+name = "rust-wc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.3.19", features = ["derive"] }
+
+[dev-dependencies]
+assert_cmd = "2.0.12"
+predicates = "3.0.3"
+assert_fs = "1.0.13"
+rstest = "0.18.2"
