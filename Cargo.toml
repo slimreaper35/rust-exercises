@@ -1,7 +1,6 @@
 [workspace]
 members = [
     "cli-word-counter",
-    "data-processing",
     "priority-queue",
     "redis/client",
     "redis/server",
